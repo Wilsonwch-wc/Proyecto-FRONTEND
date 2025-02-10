@@ -26,7 +26,7 @@ npm run serve
 
 
 ### Lista de pedidos
-![Demostracion](orders.png)
+![Demostracion](pedido.png)
 
 
 
